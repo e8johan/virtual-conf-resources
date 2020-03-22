@@ -13,7 +13,7 @@ The live setup is illustrated in the figure below:
 The setup consists of the following services:
 
 Service | Web site | Usage
---------------------------
+--------|----------|------
 ![Zoom](images/logo-zm.png) Zoom | https://zoom.us | Video conferencing system for live talks
 ![sli.do](images/logo-sdo.png) sli.do | https://sli.do | QA system
 ![VLC](images/logo-vlc.png) VLC | https://www.videolan.org/vlc/ | Media player for pre-recorded talks
