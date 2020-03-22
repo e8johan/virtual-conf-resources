@@ -60,8 +60,8 @@ This list of tools is split into open source and closed source alternatives.
 
 #### Open Source
 
-* [Kdenlive]() - powerful non-linear video editor. Can generate rendering scripts, to distribute rendering to other machines.
-* [Audacity]() - powerful audio editor / recorder. Can be used to [fix sound](https://drbacchus.com/video-noise-reduction-using-kdenlive-and-audacity/) in video recordings. Look for noise reduction filter, but also the [compressor](https://en.wikipedia.org/wiki/Dynamic_range_compression) to fix noise and volume issues.
+* [Kdenlive](https://kdenlive.org/en/) - powerful non-linear video editor. Can generate rendering scripts, to distribute rendering to other machines.
+* [Audacity](https://www.audacityteam.org/) - powerful audio editor / recorder. Can be used to [fix sound](https://drbacchus.com/video-noise-reduction-using-kdenlive-and-audacity/) in video recordings. Look for noise reduction filter, but also the [compressor](https://en.wikipedia.org/wiki/Dynamic_range_compression) to fix noise and volume issues.
 
 #### Closed Source
 
@@ -72,7 +72,7 @@ This list of tools is split into open source and closed source alternatives.
 #### Open Source
 
 * [PeerTube](https://joinpeertube.org/en/) - open source video hosting platform.
-  * [https://conf.tube]() - PeerTube instance focused on open source conferences.
+  * [ConfTube](https://conf.tube) - PeerTube instance focused on open source conferences.
 
 #### Closed Source
 
