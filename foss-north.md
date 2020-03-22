@@ -19,5 +19,5 @@ Service | Web site | Usage
 ![VLC](images/logo-vlc.png) VLC | https://www.videolan.org/vlc/ | Media player for pre-recorded talks
 ![OBS](images/logo-obs.png) OBS | https://obsproject.com/ | Broadcasting and recording program
 ![YouTube](images/logo-yt.png) YouTube | https://youtube.com | Video streaming and hosting service
-![ConfTube](images/logo-ct.png) ConfTube | https://conf.tube | Video hosting service
+![ConfTube](images/logo-pt.png) ConfTube | https://conf.tube | Video hosting service
 
