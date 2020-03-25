@@ -20,6 +20,8 @@ This list of tools is split into open source and closed source alternatives.
 
 #### Open Source
 
+* [Jitsi](https://jitsi.org) - open-source video conferencing.
+
 #### Closed Source
 
 * [Zoom](https://zoom.ui) - powerful video conferencing tools with clients for most platforms.
@@ -29,6 +31,8 @@ This list of tools is split into open source and closed source alternatives.
 *For audience interaction such as QA, polls, etc*
 
 #### Open Source
+
+* [Nextcloud Polls](https://github.com/nextcloud/polls) - self-hosted polls.
 
 #### Closed Source
 
