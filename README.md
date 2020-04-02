@@ -54,6 +54,8 @@ This list of tools is split into open source and closed source alternatives.
 
 #### Open Source
 
+* [PeerTube](https://joinpeertube.org/) - desentralized and federated video hosting.
+
 #### Closed Source
 
 * [YouTube](https://youtube.com) - the world's largest video hosting service.
