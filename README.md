@@ -54,7 +54,7 @@ This list of tools is split into open source and closed source alternatives.
 
 #### Open Source
 
-* [PeerTube](https://joinpeertube.org/) - desentralized and federated video hosting.
+* [Open Streaming Platform](https://gitlab.com/Deamos/flask-nginx-rtmp-manager/-/blob/master/README.md) - a self-hosted alternative to services like Twitch.tv, Ustream.tv, and Youtube Live.
 
 #### Closed Source
 
