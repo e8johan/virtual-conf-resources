@@ -54,6 +54,8 @@ This list of tools is split into open source and closed source alternatives.
 
 #### Open Source
 
+* [Open Streaming Platform](https://gitlab.com/Deamos/flask-nginx-rtmp-manager/-/blob/master/README.md) - a self-hosted alternative to services like Twitch.tv, Ustream.tv, and Youtube Live.
+
 #### Closed Source
 
 * [YouTube](https://youtube.com) - the world's largest video hosting service.
