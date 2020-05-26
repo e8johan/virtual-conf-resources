@@ -20,7 +20,8 @@ This list of tools is split into open source and closed source alternatives.
 
 #### Open Source
 
-* [Jitsi](https://jitsi.org) - open-source video conferencing.
+* [Jitsi](https://jitsi.org) - open-source video conferencing. See [installation instructions](https://www.digitalocean.com/community/tutorials/how-to-install-jitsi-meet-on-ubuntu-18-04) for self-hosting.
+* [BigBlueButton](https://bigbluebutton.org/) - open-source video conferencing.
 
 #### Closed Source
 
@@ -71,6 +72,8 @@ This list of tools is split into open source and closed source alternatives.
 
 #### Closed Source
 
+* [Auphonic](https://auphonic.com) - automated audio postproduction tool.
+
 ### Video Publishing
 
 *For publishing videos for non-live consumption*
@@ -78,10 +81,9 @@ This list of tools is split into open source and closed source alternatives.
 #### Open Source
 
 * [PeerTube](https://joinpeertube.org/en/) - open source video hosting platform.
-  * [ConfTube](https://conf.tube) - PeerTube instance focused on open source conferences.
+* [ConfTube](https://conf.tube) - PeerTube instance focused on open source conferences.
 
 #### Closed Source
 
 * [YouTube](https://www.youtube.com/) - the world's largest video hosting service.
 * [Vimeo](https://vimeo.com/) - video hosting service.
-
