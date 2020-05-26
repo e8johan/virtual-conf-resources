@@ -2,6 +2,8 @@
 
 This page describes the virtual conference setup of foss-north. This was deployed during [foss-north 2020](https://foss-north.se/2020).
 
+We are working towards a free and open source setup, but this documents the setup used during the foss-north 2020 event.
+
 # Overview
 
 The foss-north was conducted as a live event with QA after each talk, but all sessions where also published for non-live consumption after the event.
@@ -49,7 +51,7 @@ Notice that the voice of the person controlling the broadcast can be muted separ
 
 ## YouTube
 
-T.B.D.
+Configure OBS and YouTube according to these [instructions](https://support.google.com/youtube/answer/2907883?hl=en&ref_topic=9257984).
 
 ## Zoom
 
@@ -65,13 +67,25 @@ For the foss-north background, the desktop background behind the Zoom window is 
 
 # The Broadcast
 
-T.B.D
+During the broadcast, two people operated each session. An _OBS Operator_, and a _Moderator_. Both are in the Zoom conference with the speakers.
 
-* Recording in YT
-* Recording in Zoom (contains the voice of the broadcast host)
+The broadcast basically goes through the following flow:
 
-* Muting of various sources
-* The cut scene
+1. Show the **Intro Splash** showing when the stream is about to start.
+2. Start streaming in good time before the broadcast is about to start.
+3. Start the Zoom conference and start recording there via Zoom.
+4. When each session starts, run the **Session Intro**. Make sure to setup audio monitoring so that the _OBS Operator_ can hear when the intro stops. Nobody in the Zoom will hear this.
+5. The OBS operator then introduces the speaker in Zoom and at OBS, notifying the speaker that it is time.
+6. Shift to the **Presentation** view.
+7. After the talk, the _Moderator_ thanks the speaker and shifts to the QA.
+8. Shift to the **QA Screen** during the QA section. The _OBS Operator_ needs to be prepared to shift between **Presentation** view and **QA Screen** during this part.
+9. After the QA, make sure to thank the speaker and announce when the next session will be, then shift to the next **Intro Splash**.
+
+In addition to the sequence above, there are some scenarios that are good to be aware of:
+
+* If showing a pre-recorded session, make sure to setup audio monitoring so that the _OBS Operator_ can tell when the session is over.
+* Setup the **Pause Screen** without audio sources, or with a muteable mic, so that you can resolve the issue with the session quickly.
+* Be careful with your muting. In our setup, the _OBS Operator_ can be muted in Zoom, as well as in OBS. These are separate and need to be kept in sync. If making noise, Zoom will show a pop-up indicating that the _OBS Operator_ is trying to speak while muted. This is shown in the broadcast. To solve this, the mic of the _OBS Operator_ was muted with a physical switch as well. This means that muting and unmuting is a manual and risk prone part of the broadcast. At a couple of occations, OBS was not unmuted, but Zoom was. This affected the live broadcast, but could be fixed in the post processing, as we recorded Zoom separately from the YouTube stream.
 
 # Post Event Editing
 
